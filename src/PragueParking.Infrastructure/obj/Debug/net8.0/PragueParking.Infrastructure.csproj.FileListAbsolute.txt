@@ -1,0 +1,16 @@
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\bin\Debug\net8.0\PragueParking.Infrastructure.deps.json
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\bin\Debug\net8.0\PragueParking.Infrastructure.dll
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\bin\Debug\net8.0\PragueParking.Infrastructure.pdb
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\bin\Debug\net8.0\PragueParking.Domain.dll
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\bin\Debug\net8.0\PragueParking.Domain.pdb
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\obj\Debug\net8.0\PragueParking.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\obj\Debug\net8.0\PragueParking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\obj\Debug\net8.0\PragueParking.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\obj\Debug\net8.0\PragueParking.Infrastructure.AssemblyInfo.cs
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\obj\Debug\net8.0\PragueParking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\obj\Debug\net8.0\PragueParking.Infrastructure.sourcelink.json
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\obj\Debug\net8.0\PraguePa.C9CCF2F9.Up2Date
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\obj\Debug\net8.0\PragueParking.Infrastructure.dll
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\obj\Debug\net8.0\refint\PragueParking.Infrastructure.dll
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\obj\Debug\net8.0\PragueParking.Infrastructure.pdb
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Infrastructure\obj\Debug\net8.0\ref\PragueParking.Infrastructure.dll

@@ -1,0 +1,17 @@
+{
+  "SpotCount": 100,
+  "BusAllowedMaxIndex": 50,
+  "FreeMinutes": 10,
+  "VehicleSizes": {
+    "Bike": 1,
+    "Motorcycle": 2,
+    "Car": 4,
+    "Bus": 16
+  },
+  "PricesPerHour": {
+    "Bike": 5,
+    "Motorcycle": 10,
+    "Car": 20,
+    "Bus": 80
+  }
+}

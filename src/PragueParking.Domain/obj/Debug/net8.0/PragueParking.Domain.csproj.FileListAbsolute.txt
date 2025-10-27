@@ -1,0 +1,12 @@
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Domain\bin\Debug\net8.0\PragueParking.Domain.deps.json
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Domain\bin\Debug\net8.0\PragueParking.Domain.dll
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Domain\bin\Debug\net8.0\PragueParking.Domain.pdb
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Domain\obj\Debug\net8.0\PragueParking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Domain\obj\Debug\net8.0\PragueParking.Domain.AssemblyInfoInputs.cache
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Domain\obj\Debug\net8.0\PragueParking.Domain.AssemblyInfo.cs
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Domain\obj\Debug\net8.0\PragueParking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Domain\obj\Debug\net8.0\PragueParking.Domain.sourcelink.json
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Domain\obj\Debug\net8.0\PragueParking.Domain.dll
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Domain\obj\Debug\net8.0\refint\PragueParking.Domain.dll
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Domain\obj\Debug\net8.0\PragueParking.Domain.pdb
+C:\Users\Akkok\Downloads\PragueParking_V2.1\src\PragueParking.Domain\obj\Debug\net8.0\ref\PragueParking.Domain.dll

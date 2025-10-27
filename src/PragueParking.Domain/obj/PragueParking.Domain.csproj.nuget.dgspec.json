@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj": {}
+    "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj": {
+    "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj",
         "projectName": "PragueParking.Domain",
-        "projectPath": "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj",
+        "projectPath": "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj",
         "packagesPath": "C:\\Users\\Akkok\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\obj\\",
+        "outputPath": "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Akkok\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1410,11 +1410,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Tests\\PragueParking.Tests.csproj",
+      "projectUniqueName": "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Tests\\PragueParking.Tests.csproj",
       "projectName": "PragueParking.Tests",
-      "projectPath": "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Tests\\PragueParking.Tests.csproj",
+      "projectPath": "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Tests\\PragueParking.Tests.csproj",
       "packagesPath": "C:\\Users\\Akkok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Tests\\obj\\",
+      "outputPath": "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Akkok\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1429,11 +1429,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.App\\PragueParking.App.csproj": {
-              "projectPath": "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.App\\PragueParking.App.csproj"
+            "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.App\\PragueParking.App.csproj": {
+              "projectPath": "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.App\\PragueParking.App.csproj"
             },
-            "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj": {
-              "projectPath": "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj"
+            "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj": {
+              "projectPath": "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj"
             }
           }
         }

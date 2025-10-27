@@ -44,6 +44,13 @@ namespace PragueParking.App.Ui
                 .AddChoices(_svc.Config.VehicleSizes.Keys.OrderBy(x => x)));
             var reg = AnsiConsole.Ask<string>("Registration number:").Trim().ToUpperInvariant();
 
+            // Check if vehicle with this registration number already exists
+            if (_svc.Garage.TryFindVehicle(reg, out _, out _))
+            {
+                AnsiConsole.MarkupLine($"[red]Error:[/] A vehicle with registration number {reg} is already parked!");
+                return;
+            }
+
             var vehicle = _svc.CreateVehicle(type, reg);
             if (_svc.Garage.Park(vehicle, out var spots))
             {

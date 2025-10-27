@@ -17,7 +17,21 @@ namespace PragueParking.App.Ui
                 var status = s.IsReservedWholeSpot ? "[magenta]BUS RESERVED[/]" :
                              s.OccupiedUnits == 0 ? "[green]EMPTY[/]" :
                              s.OccupiedUnits < s.CapacityUnits ? "[yellow]PARTIAL[/]" : "[red]FULL[/]";
-                var veh = s.Vehicles.Count == 0 ? "-" : string.Join(", ", s.Vehicles.Select(v => $"{v.Type}:{v.RegNo}"));
+                
+                string veh;
+                if (s.Vehicles.Count > 0)
+                {
+                    veh = string.Join(", ", s.Vehicles.Select(v => $"{v.Type}:{v.RegNo}"));
+                }
+                else if (s.IsReservedWholeSpot && !string.IsNullOrEmpty(s.ReservedByRegNo))
+                {
+                    veh = $"Bus:{s.ReservedByRegNo}";
+                }
+                else
+                {
+                    veh = "-";
+                }
+                
                 table.AddRow($"{s.Index}", status, veh);
             }
             AnsiConsole.Write(table);

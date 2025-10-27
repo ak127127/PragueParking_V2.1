@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PragueParking.Infrastructure/1.0.0": {
+        "dependencies": {
+          "PragueParking.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PragueParking.Infrastructure.dll": {}
+        }
+      },
+      "PragueParking.Domain/1.0.0": {
+        "runtime": {
+          "PragueParking.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PragueParking.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PragueParking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
