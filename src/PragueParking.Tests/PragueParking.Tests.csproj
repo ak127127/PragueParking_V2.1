@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <IsPackable>false</IsPackable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MSTest.TestAdapter" Version="3.5.2" />
+    <PackageReference Include="MSTest.TestFramework" Version="3.5.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PragueParking.App\PragueParking.App.csproj" />
+    <ProjectReference Include="..\PragueParking.Domain\PragueParking.Domain.csproj" />
+  </ItemGroup>
+</Project>
