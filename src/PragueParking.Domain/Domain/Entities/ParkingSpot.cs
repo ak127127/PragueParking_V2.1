@@ -20,6 +20,7 @@ namespace PragueParking.Domain.Entities
         public bool CanFit(IVehicle v)
         {
             if (IsReservedWholeSpot && ReservedByRegNo != v.RegNo) return false;
+            if (IsReservedWholeSpot && ReservedByRegNo == v.RegNo) return true; // Allow the vehicle that reserved this spot
             return OccupiedUnits + v.SizeUnits <= CapacityUnits;
         }
 

@@ -1410,11 +1410,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Tests\\PragueParking.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Tests\\PragueParking.Tests.csproj",
       "projectName": "PragueParking.Tests",
-      "projectPath": "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Tests\\PragueParking.Tests.csproj",
+      "projectPath": "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Tests\\PragueParking.Tests.csproj",
       "packagesPath": "C:\\Users\\Akkok\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Akkok\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1432,8 +1432,8 @@
             "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.App\\PragueParking.App.csproj": {
               "projectPath": "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.App\\PragueParking.App.csproj"
             },
-            "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj": {
-              "projectPath": "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj"
+            "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj": {
+              "projectPath": "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj"
             }
           }
         }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PragueParking.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0eee7b52ab3856dffe6fc9555c18b423fcae5b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa7c4d9d40f40c01a0b4a84d5c2515938c7b6b84")]
 [assembly: System.Reflection.AssemblyProductAttribute("PragueParking.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PragueParking.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

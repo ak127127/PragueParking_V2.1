@@ -1,19 +1,19 @@
 {
   "Vehicles": [
     {
-      "RegNo": "ABC111",
-      "Type": "Bike",
-      "CheckInUtc": "2025-10-27T14:30:11.7779531Z",
+      "RegNo": "ABC123",
+      "Type": "Car",
+      "CheckInUtc": "2025-10-27T14:37:21.0627625Z",
       "SpotIndices": [
         1
       ]
     },
     {
-      "RegNo": "ABC111",
+      "RegNo": "BIK222",
       "Type": "Bike",
-      "CheckInUtc": "2025-10-27T14:30:21.230119Z",
+      "CheckInUtc": "2025-10-27T14:40:27.3695285Z",
       "SpotIndices": [
-        1
+        2
       ]
     }
   ]

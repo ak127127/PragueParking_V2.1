@@ -11,10 +11,17 @@ namespace PragueParking.App.Services
         public decimal CalculatePrice(string type, DateTime checkInUtc, DateTime nowUtc)
         {
             var totalMinutes = (int)Math.Max(0, (nowUtc - checkInUtc).TotalMinutes);
-            var billable = Math.Max(0, totalMinutes - _cfg.FreeMinutes);
-            if (!_cfg.PricesPerHour.TryGetValue(type, out var rate)) rate = 0m;
-            if (billable == 0) return 0m;
-            var hours = (int)Math.Ceiling(billable / 60.0);
+            
+            // First 10 minutes are free
+            if (totalMinutes <= _cfg.FreeMinutes)
+                return 0m;
+            
+            if (!_cfg.PricesPerHour.TryGetValue(type, out var rate)) 
+                rate = 0m;
+            
+            // Calculate billable hours from minute 11 onwards
+            var billableMinutes = totalMinutes - _cfg.FreeMinutes;
+            var hours = (int)Math.Ceiling(billableMinutes / 60.0);
             return rate * hours;
         }
     }
