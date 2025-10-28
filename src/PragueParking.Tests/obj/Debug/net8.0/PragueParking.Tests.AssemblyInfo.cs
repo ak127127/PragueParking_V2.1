@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PragueParking.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22646adf7d32f8a9fdc4ebee883025288fac0a4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbbacc9d9e962822aab5faf3eb497c871f84e122")]
 [assembly: System.Reflection.AssemblyProductAttribute("PragueParking.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PragueParking.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

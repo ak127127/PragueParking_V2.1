@@ -1,3 +1,23 @@
 {
-  "Vehicles": []
+  "Vehicles": [
+    {
+      "RegNo": "BUS111",
+      "Type": "Bus",
+      "CheckInUtc": "2025-10-28T11:28:48.5580292Z",
+      "SpotIndices": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "RegNo": "BBB111",
+      "Type": "Bike",
+      "CheckInUtc": "2025-10-28T11:28:32.9550316Z",
+      "SpotIndices": [
+        1
+      ]
+    }
+  ]
 }

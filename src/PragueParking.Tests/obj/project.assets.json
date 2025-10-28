@@ -1429,8 +1429,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.App\\PragueParking.App.csproj": {
-              "projectPath": "c:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.App\\PragueParking.App.csproj"
+            "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.App\\PragueParking.App.csproj": {
+              "projectPath": "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.App\\PragueParking.App.csproj"
             },
             "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj": {
               "projectPath": "C:\\Users\\Akkok\\Downloads\\PragueParking_V2.1\\src\\PragueParking.Domain\\PragueParking.Domain.csproj"
