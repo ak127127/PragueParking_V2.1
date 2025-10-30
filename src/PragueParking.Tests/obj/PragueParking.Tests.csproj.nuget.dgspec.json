@@ -248,6 +248,14 @@
             "MSTest.TestFramework": {
               "target": "Package",
               "version": "[3.5.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
